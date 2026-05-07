@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="ajavadinezhad--zyrln"></div>
+<div id="zed-industries--zed"></div>
 
-### ajavadinezhad--zyrln
+### zed-industries--zed
 
-🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.4.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.4.0)
+🔗 [source](https://github.com/zed-industries/zed) – [<code><small>v1.1.6</small></code>](https://github.com/zed-industries/zed/releases/tag/v1.1.6)
 
 | File | Size | Download |
 |------|------|----------|
-| `zyrln-1.4.0.apk` | 22.9 MB | [⬇️ Download](https://raw.githubusercontent.com/Alidkhh/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.4.0.apk) |
+| `Zed-aarch64.exe` | 66.5 MB | [⬇️ Download](https://raw.githubusercontent.com/Alidkhh/LatestReleaseMirror/main/releases/zed-industries/zed/Zed-aarch64.exe) |
 <!-- RELEASES_END -->
