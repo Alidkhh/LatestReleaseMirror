@@ -1,1 +1,2 @@
-ajavadinezhad/zyrln|zyrln-1.4.0.apk
+#ajavadinezhad/zyrln|zyrln-1.4.0.apk
+zed-industries/zed|Zed-aarch64.exe
