@@ -1,2 +1,3 @@
 #ajavadinezhad/zyrln|zyrln-1.4.0.apk
 zed-industries/zed|Zed-aarch64.exe
+2dust/v2rayN|v2rayN-windows-64-desktop.zip
