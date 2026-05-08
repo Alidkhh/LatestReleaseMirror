@@ -1,3 +1,4 @@
 #ajavadinezhad/zyrln|zyrln-1.4.0.apk
 #zed-industries/zed|Zed-x86_64.exe
 #2dust/v2rayN|v2rayN-windows-64.zip
+ThisIsDara/mhr-cfw-go|mhr-cfw-go-windows-amd64.exe
