@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="thisisdara--mhr-cfw-go"></div>
+<div id="kng7-p--se7en-pro"></div>
 
-### ThisIsDara--mhr-cfw-go
+### KNG7-P--Se7en-Pro
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
+🔗 [source](https://github.com/KNG7-P/Se7en-Pro) – [<code><small>v1.0.0</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/Alidkhh/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+| `Se7enPro_Setup.exe` | 76.7 MB | [⬇️ Download](https://raw.githubusercontent.com/Alidkhh/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/Se7enPro_Setup.exe) |
 <!-- RELEASES_END -->
